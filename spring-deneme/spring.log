@@ -1,0 +1,498 @@
+2019-04-14 11:47:13.560  INFO 4868 --- [main] com.ecankurban.deneme.SpringNasAppl      : Starting SpringNasAppl on lab9-6 with PID 4868 (D:\EzgiCankurban\springws\spring-deneme\target\classes started by vektorel in D:\EzgiCankurban\springws\spring-deneme)
+2019-04-14 11:47:13.562  INFO 4868 --- [main] com.ecankurban.deneme.SpringNasAppl      : No active profile set, falling back to default profiles: default
+2019-04-14 11:47:14.392  INFO 4868 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-14 11:47:14.408  INFO 4868 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-14 11:47:14.408  INFO 4868 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-14 11:47:14.542  INFO 4868 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-04-14 11:47:14.547  INFO 4868 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-14 11:47:14.547 DEBUG 4868 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019-04-14 11:47:14.547  INFO 4868 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 963 ms
+2019-04-14 11:47:14.869 DEBUG 4868 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2019-04-14 11:47:14.945  INFO 4868 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-14 11:47:14.955 DEBUG 4868 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019-04-14 11:47:15.086 DEBUG 4868 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2019-04-14 11:47:15.093 DEBUG 4868 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019-04-14 11:47:15.100 DEBUG 4868 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019-04-14 11:47:15.218  INFO 4868 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 17 endpoint(s) beneath base path '/actuator'
+2019-04-14 11:47:15.274  INFO 4868 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-14 11:47:15.276  INFO 4868 --- [main] com.ecankurban.deneme.SpringNasAppl      : Started SpringNasAppl in 1.962 seconds (JVM running for 2.376)
+2019-04-14 11:49:36.603  INFO 4868 --- [RMI TCP Connection(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-04-14 11:49:36.605  INFO 4868 --- [RMI TCP Connection(11)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-14 11:49:45.656  INFO 5104 --- [main] com.ecankurban.deneme.SpringNasAppl      : Starting SpringNasAppl on lab9-6 with PID 5104 (D:\EzgiCankurban\springws\spring-deneme\target\classes started by vektorel in D:\EzgiCankurban\springws\spring-deneme)
+2019-04-14 11:49:45.658  INFO 5104 --- [main] com.ecankurban.deneme.SpringNasAppl      : No active profile set, falling back to default profiles: default
+2019-04-14 11:49:46.435  INFO 5104 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-14 11:49:46.451  INFO 5104 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-14 11:49:46.451  INFO 5104 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-14 11:49:46.582  INFO 5104 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-04-14 11:49:46.586  INFO 5104 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-14 11:49:46.587 DEBUG 5104 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019-04-14 11:49:46.587  INFO 5104 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 907 ms
+2019-04-14 11:49:46.887 DEBUG 5104 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2019-04-14 11:49:46.951  INFO 5104 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-14 11:49:46.959 DEBUG 5104 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019-04-14 11:49:47.066 DEBUG 5104 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2019-04-14 11:49:47.072 DEBUG 5104 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019-04-14 11:49:47.078 DEBUG 5104 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019-04-14 11:49:47.190  INFO 5104 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 17 endpoint(s) beneath base path '/actuator'
+2019-04-14 11:49:47.244  INFO 5104 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-14 11:49:47.247  INFO 5104 --- [main] com.ecankurban.deneme.SpringNasAppl      : Started SpringNasAppl in 1.834 seconds (JVM running for 2.228)
+2019-04-14 11:51:29.014  INFO 5104 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-14 11:51:29.015  INFO 5104 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-04-14 11:51:29.015 DEBUG 5104 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2019-04-14 11:51:29.020 DEBUG 5104 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2019-04-14 11:51:29.020  INFO 5104 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-04-14 11:51:29.030 DEBUG 5104 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/actuator", parameters={}
+2019-04-14 11:51:29.049 DEBUG 5104 --- [http-nio-8080-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Using 'application/vnd.spring-boot.actuator.v2+json;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8] and supported [application/vnd.spring-boot.actuator.v2+json, application/json]
+2019-04-14 11:51:29.051 DEBUG 5104 --- [http-nio-8080-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Writing [{_links={self=[Link@132b286 href = 'http://localhost:8080/actuator'], auditevents=[Link@294513f3 hre (truncated)...]
+2019-04-14 11:51:29.062 DEBUG 5104 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 11:51:29.277 DEBUG 5104 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 11:51:29.279 DEBUG 5104 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 11:51:29.291 DEBUG 5104 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 11:51:45.333 DEBUG 5104 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/actuator/health", parameters={}
+2019-04-14 11:51:45.359 DEBUG 5104 --- [http-nio-8080-exec-3] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/vnd.spring-boot.actuator.v2+json;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8] and supported [application/vnd.spring-boot.actuator.v2+json, application/json]
+2019-04-14 11:51:45.366 DEBUG 5104 --- [http-nio-8080-exec-3] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [UP {}]
+2019-04-14 11:51:45.368 DEBUG 5104 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 11:52:01.489 DEBUG 5104 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/actuator/env", parameters={}
+2019-04-14 11:52:01.498 DEBUG 5104 --- [http-nio-8080-exec-5] m.m.a.RequestResponseBodyMethodProcessor : Using 'application/vnd.spring-boot.actuator.v2+json;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8] and supported [application/vnd.spring-boot.actuator.v2+json, application/json]
+2019-04-14 11:52:01.500 DEBUG 5104 --- [http-nio-8080-exec-5] m.m.a.RequestResponseBodyMethodProcessor : Writing [org.springframework.boot.actuate.env.EnvironmentEndpoint$EnvironmentDescriptor@6fa86449]
+2019-04-14 11:52:01.510 DEBUG 5104 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 11:57:50.056 DEBUG 5104 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 11:57:50.069 DEBUG 5104 --- [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 11:57:50.070 DEBUG 5104 --- [http-nio-8080-exec-9] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 11:57:50.071 DEBUG 5104 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 11:57:50.074 DEBUG 5104 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 11:57:50.079 DEBUG 5104 --- [http-nio-8080-exec-9] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 11:57:50.086 DEBUG 5104 --- [http-nio-8080-exec-9] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 11:57:50.089 DEBUG 5104 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 11:57:54.728  INFO 5104 --- [RMI TCP Connection(15)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-04-14 11:57:54.732  INFO 5104 --- [RMI TCP Connection(15)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-14 11:59:51.295  INFO 5340 --- [main] com.ecankurban.deneme.SpringNasAppl      : Starting SpringNasAppl on lab9-6 with PID 5340 (D:\EzgiCankurban\springws\spring-deneme\target\classes started by vektorel in D:\EzgiCankurban\springws\spring-deneme)
+2019-04-14 11:59:51.297  INFO 5340 --- [main] com.ecankurban.deneme.SpringNasAppl      : No active profile set, falling back to default profiles: default
+2019-04-14 11:59:52.099  INFO 5340 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-14 11:59:52.115  INFO 5340 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-14 11:59:52.115  INFO 5340 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-14 11:59:52.244  INFO 5340 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-04-14 11:59:52.249  INFO 5340 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-14 11:59:52.249 DEBUG 5340 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019-04-14 11:59:52.250  INFO 5340 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 931 ms
+2019-04-14 11:59:52.514 DEBUG 5340 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2019-04-14 11:59:52.580  INFO 5340 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-14 11:59:52.587 DEBUG 5340 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019-04-14 11:59:52.699 DEBUG 5340 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2019-04-14 11:59:52.705 DEBUG 5340 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019-04-14 11:59:52.711 DEBUG 5340 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019-04-14 11:59:52.828  INFO 5340 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 17 endpoint(s) beneath base path '/actuator'
+2019-04-14 11:59:52.882  INFO 5340 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-14 11:59:52.884  INFO 5340 --- [main] com.ecankurban.deneme.SpringNasAppl      : Started SpringNasAppl in 1.833 seconds (JVM running for 2.228)
+2019-04-14 11:59:55.347  INFO 5340 --- [RMI TCP Connection(6)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-14 11:59:55.347  INFO 5340 --- [RMI TCP Connection(6)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-04-14 11:59:55.347 DEBUG 5340 --- [RMI TCP Connection(6)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2019-04-14 11:59:55.351 DEBUG 5340 --- [RMI TCP Connection(6)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2019-04-14 11:59:55.351  INFO 5340 --- [RMI TCP Connection(6)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-04-14 12:00:00.279 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:00.290 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:00.292 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:00.293 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:00.300 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:00.305 DEBUG 5340 --- [http-nio-8080-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:00.317 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:00.320 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:00.331 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:00.332 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:00.348 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:01.166 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:01.172 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:01.173 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:01.173 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:01.174 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:01.179 DEBUG 5340 --- [http-nio-8080-exec-3] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:01.182 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:01.182 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:01.199 DEBUG 5340 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:01.199 DEBUG 5340 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:01.201 DEBUG 5340 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:01.780 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:01.789 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:01.790 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:01.791 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:01.792 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:01.797 DEBUG 5340 --- [http-nio-8080-exec-5] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:01.798 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:01.798 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:01.809 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:01.809 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:01.811 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:01.964 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:01.967 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:01.967 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:01.967 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:01.968 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:01.970 DEBUG 5340 --- [http-nio-8080-exec-7] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:01.971 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:01.971 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:01.983 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:01.985 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:01.987 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:02.170 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:02.172 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:02.172 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:02.172 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:02.173 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:02.174 DEBUG 5340 --- [http-nio-8080-exec-9] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:02.175 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:02.175 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:02.184 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:02.185 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:02.186 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:02.354 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:02.356 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:02.356 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:02.356 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:02.356 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:02.357 DEBUG 5340 --- [http-nio-8080-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:02.358 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:02.359 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:02.369 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:02.370 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:02.371 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:26.663 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:26.666 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:26.670 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:26.670 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:26.671 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:26.674 DEBUG 5340 --- [http-nio-8080-exec-3] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:26.676 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:26.677 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:26.699 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:26.700 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:26.703 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:27.308 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:27.311 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:27.312 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:27.313 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:27.314 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:27.317 DEBUG 5340 --- [http-nio-8080-exec-6] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:27.320 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:27.321 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:27.338 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:27.339 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:27.342 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:27.514 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:27.520 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:27.522 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:27.522 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:27.523 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:27.526 DEBUG 5340 --- [http-nio-8080-exec-8] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:27.529 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:27.530 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:27.546 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:27.547 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:27.549 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:27.717 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:27.719 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:27.720 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:27.720 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:27.721 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:27.723 DEBUG 5340 --- [http-nio-8080-exec-10] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:27.725 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:27.725 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:27.747 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:27.748 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:27.750 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:27.924 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:27.926 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:27.927 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:27.928 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:27.928 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:27.929 DEBUG 5340 --- [http-nio-8080-exec-2] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:27.931 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:27.932 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:27.949 DEBUG 5340 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:27.949 DEBUG 5340 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:27.952 DEBUG 5340 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:28.267 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:28.270 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:28.271 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:28.272 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:28.272 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:28.275 DEBUG 5340 --- [http-nio-8080-exec-3] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:28.277 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:28.278 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:28.297 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:28.298 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:28.300 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:28.452 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:28.454 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:28.455 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:28.456 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:28.457 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:28.459 DEBUG 5340 --- [http-nio-8080-exec-6] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:28.462 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:28.462 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:28.480 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:28.481 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:28.483 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:31.772 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:31.774 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:31.775 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:31.776 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:31.777 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:31.778 DEBUG 5340 --- [http-nio-8080-exec-8] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:31.781 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:31.781 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:31.802 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:31.802 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:31.806 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:32.211 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:32.214 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:32.215 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:32.216 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:32.217 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:32.218 DEBUG 5340 --- [http-nio-8080-exec-10] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:32.221 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:32.221 DEBUG 5340 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:32.245 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:32.246 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:32.249 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:32.699 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:32.701 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:32.702 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:32.702 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:32.703 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:32.705 DEBUG 5340 --- [http-nio-8080-exec-2] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:32.708 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:32.708 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:32.730 DEBUG 5340 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:32.730 DEBUG 5340 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:32.732 DEBUG 5340 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:33.340 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:33.342 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:33.343 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:33.344 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:33.345 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:33.347 DEBUG 5340 --- [http-nio-8080-exec-3] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:33.350 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:33.350 DEBUG 5340 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:33.372 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:33.372 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:33.376 DEBUG 5340 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:34.035 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:34.037 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:34.039 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:34.039 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:34.040 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:34.042 DEBUG 5340 --- [http-nio-8080-exec-6] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:34.044 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:34.045 DEBUG 5340 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:34.064 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:34.064 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:34.067 DEBUG 5340 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:34.283 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:34.285 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:34.287 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:34.287 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:34.288 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:34.289 DEBUG 5340 --- [http-nio-8080-exec-8] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:34.291 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:34.292 DEBUG 5340 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:00:34.341 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:00:34.342 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:00:34.346 DEBUG 5340 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:42.244 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/actuator", parameters={}
+2019-04-14 12:00:42.252 DEBUG 5340 --- [http-nio-8080-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Using 'application/vnd.spring-boot.actuator.v2+json;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8] and supported [application/vnd.spring-boot.actuator.v2+json, application/json]
+2019-04-14 12:00:42.256 DEBUG 5340 --- [http-nio-8080-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Writing [{_links={self=[Link@182f4c5b href = 'http://localhost:8080/actuator'], auditevents=[Link@58e667d hre (truncated)...]
+2019-04-14 12:00:42.270 DEBUG 5340 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:00:49.508 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:00:49.510 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:00:49.511 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:00:49.511 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:00:49.512 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:00:49.514 DEBUG 5340 --- [http-nio-8080-exec-2] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:00:49.517 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:00:49.517 DEBUG 5340 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:01:03.086  INFO 5340 --- [RMI TCP Connection(7)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-04-14 12:01:03.090  INFO 5340 --- [RMI TCP Connection(7)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-14 12:01:12.492  INFO 5800 --- [main] com.ecankurban.deneme.SpringNasAppl      : Starting SpringNasAppl on lab9-6 with PID 5800 (D:\EzgiCankurban\springws\spring-deneme\target\classes started by vektorel in D:\EzgiCankurban\springws\spring-deneme)
+2019-04-14 12:01:12.494  INFO 5800 --- [main] com.ecankurban.deneme.SpringNasAppl      : No active profile set, falling back to default profiles: default
+2019-04-14 12:01:13.272  INFO 5800 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-14 12:01:13.288  INFO 5800 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-14 12:01:13.289  INFO 5800 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-14 12:01:13.415  INFO 5800 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-04-14 12:01:13.420  INFO 5800 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-14 12:01:13.420 DEBUG 5800 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019-04-14 12:01:13.420  INFO 5800 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 904 ms
+2019-04-14 12:01:13.675 DEBUG 5800 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2019-04-14 12:01:13.738  INFO 5800 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-14 12:01:13.746 DEBUG 5800 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019-04-14 12:01:13.846 DEBUG 5800 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2019-04-14 12:01:13.851 DEBUG 5800 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019-04-14 12:01:13.857 DEBUG 5800 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019-04-14 12:01:13.968  INFO 5800 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 17 endpoint(s) beneath base path '/actuator'
+2019-04-14 12:01:14.022  INFO 5800 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-14 12:01:14.024  INFO 5800 --- [main] com.ecankurban.deneme.SpringNasAppl      : Started SpringNasAppl in 1.773 seconds (JVM running for 2.169)
+2019-04-14 12:01:16.412  INFO 5800 --- [RMI TCP Connection(7)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-14 12:01:16.412  INFO 5800 --- [RMI TCP Connection(7)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-04-14 12:01:16.412 DEBUG 5800 --- [RMI TCP Connection(7)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2019-04-14 12:01:16.417 DEBUG 5800 --- [RMI TCP Connection(7)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2019-04-14 12:01:16.417  INFO 5800 --- [RMI TCP Connection(7)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-04-14 12:01:44.630 DEBUG 5800 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:01:44.641 DEBUG 5800 --- [http-nio-8080-exec-1] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:01:44.642 DEBUG 5800 --- [http-nio-8080-exec-1] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:01:44.643 DEBUG 5800 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:01:44.651 DEBUG 5800 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:01:44.656 DEBUG 5800 --- [http-nio-8080-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:01:44.669 DEBUG 5800 --- [http-nio-8080-exec-1] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:01:44.672 DEBUG 5800 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:01:44.683 DEBUG 5800 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:01:44.683 DEBUG 5800 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:01:44.698 DEBUG 5800 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:01:45.773 DEBUG 5800 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/actuator/msg", parameters={}
+2019-04-14 12:01:45.782 DEBUG 5800 --- [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:01:45.783 DEBUG 5800 --- [http-nio-8080-exec-3] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:01:45.784 DEBUG 5800 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:01:45.785 DEBUG 5800 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:01:45.792 DEBUG 5800 --- [http-nio-8080-exec-3] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:01:45.795 DEBUG 5800 --- [http-nio-8080-exec-3] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:01:45.795 DEBUG 5800 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:01:45.814 DEBUG 5800 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:01:45.815 DEBUG 5800 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:01:45.817 DEBUG 5800 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:01:55.553 DEBUG 5800 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/msg", parameters={}
+2019-04-14 12:01:55.559 DEBUG 5800 --- [http-nio-8080-exec-5] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public java.lang.String com.ecankurban.deneme.controlers.SpringFirstController.getMessage()
+2019-04-14 12:01:55.564 DEBUG 5800 --- [http-nio-8080-exec-5] m.m.a.RequestResponseBodyMethodProcessor : Using 'text/html', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8] and supported [text/plain, */*, text/plain, */*, application/json, application/*+json, application/json, application/*+json]
+2019-04-14 12:01:55.564 DEBUG 5800 --- [http-nio-8080-exec-5] m.m.a.RequestResponseBodyMethodProcessor : Writing ["İlk Spring controller Çağrımı gerçekleşti..."]
+2019-04-14 12:01:55.565 DEBUG 5800 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:52:27.947  INFO 6640 --- [main] com.ecankurban.deneme.SpringNasAppl      : Starting SpringNasAppl on lab9-6 with PID 6640 (D:\EzgiCankurban\springws\spring-deneme\target\classes started by vektorel in D:\EzgiCankurban\springws\spring-deneme)
+2019-04-14 12:52:27.949  INFO 6640 --- [main] com.ecankurban.deneme.SpringNasAppl      : No active profile set, falling back to default profiles: default
+2019-04-14 12:52:28.782  INFO 6640 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-14 12:52:28.798  INFO 6640 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-14 12:52:28.798  INFO 6640 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-14 12:52:28.925  INFO 6640 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-04-14 12:52:28.929  INFO 6640 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-14 12:52:28.929 DEBUG 6640 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019-04-14 12:52:28.929  INFO 6640 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 957 ms
+2019-04-14 12:52:29.190 DEBUG 6640 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2019-04-14 12:52:29.256  INFO 6640 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-14 12:52:29.264 DEBUG 6640 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019-04-14 12:52:29.380 DEBUG 6640 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 4 mappings in 'requestMappingHandlerMapping'
+2019-04-14 12:52:29.387 DEBUG 6640 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019-04-14 12:52:29.393 DEBUG 6640 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019-04-14 12:52:29.507  INFO 6640 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 17 endpoint(s) beneath base path '/actuator'
+2019-04-14 12:52:29.551 ERROR 6640 --- [main] org.apache.catalina.util.LifecycleBase   : Failed to start component [Connector[HTTP/1.1-8080]]
+
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552) [spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at com.ecankurban.deneme.SpringNasAppl.main(SpringNasAppl.java:11) [classes/:na]
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_131]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_131]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_131]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_131]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_131]
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1103) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1189) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	... 14 common frames omitted
+
+2019-04-14 12:52:29.559  INFO 6640 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-04-14 12:52:29.565  INFO 6640 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-04-14 12:52:29.568 ERROR 6640 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-04-14 12:52:29.570  INFO 6640 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-14 12:52:47.907 DEBUG 5800 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/name", parameters={}
+2019-04-14 12:52:47.909 DEBUG 5800 --- [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:52:47.910 DEBUG 5800 --- [http-nio-8080-exec-9] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:52:47.910 DEBUG 5800 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:52:47.910 DEBUG 5800 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:52:47.912 DEBUG 5800 --- [http-nio-8080-exec-9] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:52:47.913 DEBUG 5800 --- [http-nio-8080-exec-9] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:52:47.913 DEBUG 5800 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:54:56.664  INFO 5800 --- [RMI TCP Connection(64)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-04-14 12:54:56.667  INFO 5800 --- [RMI TCP Connection(64)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-14 12:55:07.456  INFO 6808 --- [main] com.ecankurban.deneme.SpringNasAppl      : Starting SpringNasAppl on lab9-6 with PID 6808 (D:\EzgiCankurban\springws\spring-deneme\target\classes started by vektorel in D:\EzgiCankurban\springws\spring-deneme)
+2019-04-14 12:55:07.458  INFO 6808 --- [main] com.ecankurban.deneme.SpringNasAppl      : No active profile set, falling back to default profiles: default
+2019-04-14 12:55:08.359  INFO 6808 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-14 12:55:08.378  INFO 6808 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-14 12:55:08.378  INFO 6808 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-14 12:55:08.516  INFO 6808 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-04-14 12:55:08.521  INFO 6808 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-14 12:55:08.521 DEBUG 6808 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019-04-14 12:55:08.521  INFO 6808 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1039 ms
+2019-04-14 12:55:08.819 DEBUG 6808 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2019-04-14 12:55:08.896  INFO 6808 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-14 12:55:08.904 DEBUG 6808 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019-04-14 12:55:09.013 DEBUG 6808 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 4 mappings in 'requestMappingHandlerMapping'
+2019-04-14 12:55:09.021 DEBUG 6808 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019-04-14 12:55:09.029 DEBUG 6808 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019-04-14 12:55:09.161  INFO 6808 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 17 endpoint(s) beneath base path '/actuator'
+2019-04-14 12:55:09.223  INFO 6808 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-14 12:55:09.226  INFO 6808 --- [main] com.ecankurban.deneme.SpringNasAppl      : Started SpringNasAppl in 2.036 seconds (JVM running for 2.463)
+2019-04-14 12:55:12.249  INFO 6808 --- [RMI TCP Connection(1)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-14 12:55:12.249  INFO 6808 --- [RMI TCP Connection(1)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-04-14 12:55:12.249 DEBUG 6808 --- [RMI TCP Connection(1)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2019-04-14 12:55:12.256 DEBUG 6808 --- [RMI TCP Connection(1)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2019-04-14 12:55:12.256  INFO 6808 --- [RMI TCP Connection(1)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-04-14 12:55:33.823 DEBUG 6808 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/name", parameters={}
+2019-04-14 12:55:33.834 DEBUG 6808 --- [http-nio-8080-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView com.ecankurban.deneme.controlers.SpringFirstController.getOwnerName()
+2019-04-14 12:55:33.844 DEBUG 6808 --- [http-nio-8080-exec-1] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8]
+2019-04-14 12:55:33.844 DEBUG 6808 --- [http-nio-8080-exec-1] o.s.web.servlet.view.JstlView            : View name 'owner', model {ownern=Ezgi CANKURBAN}
+2019-04-14 12:55:33.846 DEBUG 6808 --- [http-nio-8080-exec-1] o.s.web.servlet.view.JstlView            : Forwarding to [WEB-INF/jsp/owner.jsp]
+2019-04-14 12:55:34.179 DEBUG 6808 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:55:34.210 DEBUG 6808 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:55:34.211 DEBUG 6808 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:55:34.227 DEBUG 6808 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:55:34.489 DEBUG 6808 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/name", parameters={}
+2019-04-14 12:55:34.493 DEBUG 6808 --- [http-nio-8080-exec-3] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView com.ecankurban.deneme.controlers.SpringFirstController.getOwnerName()
+2019-04-14 12:55:34.494 DEBUG 6808 --- [http-nio-8080-exec-3] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8]
+2019-04-14 12:55:34.494 DEBUG 6808 --- [http-nio-8080-exec-3] o.s.web.servlet.view.JstlView            : View name 'owner', model {ownern=Ezgi CANKURBAN}
+2019-04-14 12:55:34.494 DEBUG 6808 --- [http-nio-8080-exec-3] o.s.web.servlet.view.JstlView            : Forwarding to [WEB-INF/jsp/owner.jsp]
+2019-04-14 12:55:34.494 DEBUG 6808 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:55:34.527 DEBUG 6808 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2019-04-14 12:55:34.527 DEBUG 6808 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]
+2019-04-14 12:55:34.529 DEBUG 6808 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:55:45.757 DEBUG 6808 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/fbs", parameters={}
+2019-04-14 12:55:45.762 DEBUG 6808 --- [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-04-14 12:55:45.764 DEBUG 6808 --- [http-nio-8080-exec-5] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2019-04-14 12:55:45.764 DEBUG 6808 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2019-04-14 12:55:45.765 DEBUG 6808 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2019-04-14 12:55:45.768 DEBUG 6808 --- [http-nio-8080-exec-5] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-14 12:55:45.774 DEBUG 6808 --- [http-nio-8080-exec-5] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, text/html;q=0.8]
+2019-04-14 12:55:45.776 DEBUG 6808 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2019-04-14 12:55:54.500 DEBUG 6808 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : GET "/name", parameters={}
+2019-04-14 12:55:54.504 DEBUG 6808 --- [http-nio-8080-exec-7] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public org.springframework.web.servlet.ModelAndView com.ecankurban.deneme.controlers.SpringFirstController.getOwnerName()
+2019-04-14 12:55:54.505 DEBUG 6808 --- [http-nio-8080-exec-7] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8]
+2019-04-14 12:55:54.505 DEBUG 6808 --- [http-nio-8080-exec-7] o.s.web.servlet.view.JstlView            : View name 'owner', model {ownern=Ezgi CANKURBAN}
+2019-04-14 12:55:54.505 DEBUG 6808 --- [http-nio-8080-exec-7] o.s.web.servlet.view.JstlView            : Forwarding to [WEB-INF/jsp/owner.jsp]
+2019-04-14 12:55:54.505 DEBUG 6808 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-04-14 12:57:51.578  INFO 6808 --- [RMI TCP Connection(10)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-04-14 12:57:51.581  INFO 6808 --- [RMI TCP Connection(10)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
